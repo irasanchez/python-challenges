@@ -25,6 +25,6 @@ print((h * b2) / 2)
 # two strings. See the lesson for details.
 
 # Read a string:
-# a2 = input()
+a = input()
 # Print a string:
-# print(a2)
+print("Hello, " + a + "!")
